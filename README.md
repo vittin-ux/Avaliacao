@@ -8,18 +8,6 @@ interativo.
 
 ------------------------------------------------------------------------
 
-##Como executar o programa
-
-1.  Certifique-se de ter o Python 3 instalado.
-2.  Baixe ou clone o repositório.
-3.  No terminal, execute:
-
-``` bash
-python sistema_alunos.py
-``
-
-## Funcionalidades
-
 ### Cadastrar Aluno
 
 Armazena o nome de um aluno dentro de uma lista, usando um dicionário.
