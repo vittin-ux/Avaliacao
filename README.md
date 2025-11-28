@@ -8,23 +8,23 @@ interativo.
 
 ------------------------------------------------------------------------
 
-### Cadastrar Aluno
+# Cadastrar Aluno
 
 Armazena o nome de um aluno dentro de uma lista, usando um dicionário.
 
-### Adicionar Nota
+# Adicionar Nota
 
 Procura um aluno pelo nome e adiciona uma nota na sua lista interna.
 
-### Listar Alunos
+# Listar Alunos
 
 Mostra todos os alunos cadastrados.
 
-### Exibir Alunos com Notas
+# Exibir Alunos com Notas
 
 Exibe cada aluno, suas notas e a média calculada.
 
-### Sair
+# Sair
 
 Encerra o sistema.
 
